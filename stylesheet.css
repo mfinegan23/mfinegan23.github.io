@@ -1,4 +1,3 @@
-
 a {
   text-decoration: none;
   color: #f792c9;
@@ -47,9 +46,17 @@ h1, h2, h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%; 
+  width: 40%;
   height: auto;
   border-radius: 50%
+}
+
+.center_square {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15vw;
+  height: 35vh;
 }
 
 @media (prefers-color-scheme: dark) {
